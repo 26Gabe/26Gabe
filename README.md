@@ -1,4 +1,5 @@
 # Hi I'm Gabe welcome to my GitHub
+(I used the sliders becuase I thought they looked cool)
 
  ### Previous coding experience
     🖥️🖱️
