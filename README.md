@@ -11,7 +11,7 @@ I've always been interested in coding, but haven't really had the time or taken 
 text</span>
 
  ### Other interests
-    ⚽📝
+⚽📝
 I'm Interested in Physics, Math, and Business, but I'm not sure how or where these interests could combine and take me, maybe engineering or something similar. Also I play defense in soccer which is fun becuase I get get to spend time with my freinds and defense is the best part of soccor. I also do science fair and I want to incorporate coding into this years science fair.
 </span>
 
