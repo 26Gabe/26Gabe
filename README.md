@@ -1,7 +1,7 @@
 # Hi I'm Gabe welcome to my GitHub
 
-<span style="color:blue;">
-### Previous coding experience
+ ### Previous coding experience
+ <span style="color:blue;">
 I'd say I'm between an intermediate and a beginner at coding, I know my way around p5js and how to work with functions, conditions, etc. I've  been practicing over the summer following TheCodingTrain series on p5js and doing little projects using what was taught within the video in ways that I'm passionate about.
 </span>
 <span style="color:red;">
