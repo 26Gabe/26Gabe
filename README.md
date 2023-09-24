@@ -8,7 +8,7 @@
 ### Reasons for taking this class
      🤔👨‍🔬
     I've always been interested in coding, but haven't really had the time or taken initiative to start making projects, but now since coding is a part of my schoolwork it'll give me a good way to start coding. Also I believe it'll be applicable to other projects I have, and it lets me use the time that I'd otherwise be honestly wasting in art. 
-text</span>
+
 
  ### Other interests
     ⚽📝
