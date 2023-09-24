@@ -1,5 +1,5 @@
 # Hi I'm Gabe welcome to my GitHub
-(I used the sliders becuase I thought they looked cool)
+(I used the sliders becuase I thought they had a cool effect even though they are a bit annoying)
 
  ### Previous coding experience
     🖥️🖱️
